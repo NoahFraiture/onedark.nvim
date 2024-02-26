@@ -1,11 +1,11 @@
 return {
-	dark = {
+	dark = { --catppuccin mocha
 		black = "#181a1f",
-		bg0 = "#282c34",
-		bg1 = "#31353f",
+		bg0 = "#1e1e2f", -- background
+		bg1 = "#31353f", -- line between bg and tree and highlight line
 		bg2 = "#393f4a",
 		bg3 = "#3b3f4c",
-		bg_d = "#21252b",
+		bg_d = "#181826", -- tree background
 		bg_blue = "#73b8f1",
 		bg_yellow = "#ebd09c",
 		fg = "#abb2bf",
@@ -16,7 +16,7 @@ return {
 		yellow = "#e5c07b",
 		cyan = "#56b6c2",
 		red = "#e86671",
-		grey = "#5c6370",
+		grey = "#5c6370", -- comment
 		light_grey = "#848b98",
 		dark_cyan = "#2b6f77",
 		dark_red = "#993939",
