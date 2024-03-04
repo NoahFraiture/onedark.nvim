@@ -16,7 +16,7 @@ return {
 		yellow = "#e5c07b",
 		cyan = "#56b6c2",
 		red = "#e86671",
-		grey = "#3c4350", -- comment
+		grey = "#6c7380", -- comment
 		light_grey = "#848b98",
 		dark_cyan = "#2b6f77",
 		dark_red = "#993939",
